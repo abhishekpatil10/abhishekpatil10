@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishekpatil10
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Web World.
+- 🌱 Currently exploring ..
 - 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me ...
 
