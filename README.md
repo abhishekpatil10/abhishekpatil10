@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @abhishekpatil10
 - 👀 I’m interested in Web World.
 - 🌱 Currently exploring ..
+- No 69 only fix the line.
 - 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me ...
 
